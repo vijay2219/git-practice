@@ -1,5 +1,5 @@
 done.exe:main.o	swap.o	prime.o	char-check.o
-	gcc	-o	main.o swap.o  prime.o char-check.o
+	gcc	-o	done.exe	main.o swap.o  prime.o char-check.o
 main.o:main.c
 	gcc	-c	main.c
 swap.o:swap.c
