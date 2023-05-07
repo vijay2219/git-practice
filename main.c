@@ -1,0 +1,6 @@
+main()
+{
+	swap();
+	prime();
+	charactercheck();
+}
